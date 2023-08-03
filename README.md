@@ -17,11 +17,13 @@ restricted ESC-10 dataset, and classification within each of
 the five sound groups. 
 
 
-![Adsız](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/27b7dbb4-984f-4223-a3af-f0a8ae975a09)
+<p align="center">
+  <img width="460" height="300" ![Adsız](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/27b7dbb4-984f-4223-a3af-f0a8ae975a09)>
+</p>
 
 ![t](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/443d3e3a-df3b-43f7-a7a4-b2b2f71af242) 
 
-                                Training and Validation Result of Animal Sounds , detailed in the report for other groups
+                            Training and Validation Result of Animal Sounds , detailed in the report for other groups
 
 ![3](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/7163f1e3-8a23-48a7-ae90-9e3be49e560a)
 
