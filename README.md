@@ -13,6 +13,8 @@ audio files and labeled the data.
 
 ![t](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/443d3e3a-df3b-43f7-a7a4-b2b2f71af242) 
 
+                                Training and Validation Result of Animal Sounds , detailed in the report for other groups
+
 ![3](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/7163f1e3-8a23-48a7-ae90-9e3be49e560a)
 
 
