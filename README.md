@@ -17,9 +17,8 @@ restricted ESC-10 dataset, and classification within each of
 the five sound groups. 
 
 
-<p align="center">
   ![Adsız](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/27b7dbb4-984f-4223-a3af-f0a8ae975a09)
-</p>
+
 
 ![t](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/443d3e3a-df3b-43f7-a7a4-b2b2f71af242) 
 
