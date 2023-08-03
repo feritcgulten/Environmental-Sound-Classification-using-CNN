@@ -14,7 +14,7 @@ consist of labeled 2000 environmental audio recordings. The
 dataset is organized into five distinct groups. Three different
 classification tasks are performed using this dataset: classification on the entire ESC-50 dataset, classification on the
 restricted ESC-10 dataset, and classification within each of
-the five sound groups. You can find report in pdf file and the code in .jpyn file.
+the five sound groups. You can find report in pdf file and the code in .ipynb file.
 
 
   ![Adsız](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/27b7dbb4-984f-4223-a3af-f0a8ae975a09)
