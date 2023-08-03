@@ -16,7 +16,9 @@ classification tasks are performed using this dataset: classification on the ent
 restricted ESC-10 dataset, and classification within each of
 the five sound groups. You can find report in pdf file and the code in .ipynb file.
 
-
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/27b7dbb4-984f-4223-a3af-f0a8ae975a09)">
+</p>
   ![Adsız](https://github.com/feritcgulten/Environmental-Sound-Classification-using-CNN/assets/14100704/27b7dbb4-984f-4223-a3af-f0a8ae975a09)
 
 
